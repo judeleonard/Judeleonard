@@ -1,7 +1,7 @@
 ### Hi! there 👋
 
-🐦https://twitter.com/JudeLeonard13
-📩judeleonard86@gmail.com
+🐦 https://twitter.com/JudeLeonard13
+📩 judeleonard86@gmail.com
 
 ### About Me
 My name is Ndu Jude Chukwuebuka, but goes by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
