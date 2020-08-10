@@ -1,6 +1,6 @@
 ### Hi! there 👋
 
-🐦  @JudeLeonard13
+🐦  www.twitter.com/JudeLeonard13
 
 📩 judeleonard86@gmail.com
 
