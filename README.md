@@ -1,16 +1,17 @@
-### Hi! there 👋
-
-🐦 www.twitter.com/JudeLeonard13
-
-📩 judeleonard86@gmail.com
+### Hi! there 👋 I'm jude
 
 ### About Me
 My name is Ndu Jude Chukwuebuka, but goes by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
 I'm a junior data scientist.I specialize in Machine Learning and Data Analytics with a very strong interest in AI. 
 I'm currently working on machine learning and real time decision projects as an intern at hamoye.I'm also open to any DS-internship position
-to help grow my career even further(onsite). I love contributing to open source community . Python is my favorite language. I can be reached via any of the links above.  
- 
+to help grow my career even further(onsite). I love contributing to open source community . Python is my favorite language. 
 
+### Reach Me Via
+[My Twitter Profile](www.twitter.com/JudeLeonard13)
+
+[My Email acount](judeleonard86@gmail.com)
+
+[My LinkedIn Profile](https://www.linkedin.com/in/jude-chukwuebuka-78ab38175)
 <!--
 **judeleonard/Judeleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
