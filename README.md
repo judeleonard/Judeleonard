@@ -7,9 +7,7 @@ I'm currently working on machine learning and real time decision projects as an 
 to help grow my career even further(onsite). I love contributing to open source community . Python is my favorite language. 
 
 ### Reach Me Via
-[My Twitter Profile](www.twitter.com/JudeLeonard13)
-
-[My Email acount](judeleonard86@gmail.com)
+[My Twitter Profile](https://twitter.com/JudeLeonard13)
 
 [My LinkedIn Profile](https://www.linkedin.com/in/jude-chukwuebuka-78ab38175)
 <!--
