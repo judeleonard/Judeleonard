@@ -3,10 +3,10 @@
 ### Hi! there 👋 I'm jude
 
 ### About Me
-My name is Ndu Jude Chukwuebuka, but goes by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
+My name is Ndu Jude Chukwuebuka, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
 I'm a junior data scientist.I specialize in Machine Learning and Data Analytics with a very strong interest in AI. 
-I'm currently working on machine learning and real time decision projects as an intern at hamoye.I'm also open to any DS-internship position
-to help grow my career even further(onsite). I love contributing to open source community . Python is my favorite language. 
+I'm currently working on machine learning and real time decision projects as an intern at hamoye.I'm also open to an entry level role as a junior Data Scientist or any DS-internship position(onsite)
+to help grow my career even further. I love contributing to open source community . Python is my favorite language. 
 
 ### Reach Me Via
 [My Twitter Profile](https://twitter.com/JudeLeonard13)
