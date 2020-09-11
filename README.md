@@ -13,6 +13,7 @@ to help grow my career even further. I love contributing to open source communit
 
 [My LinkedIn Profile](https://www.linkedin.com/in/jude-chukwuebuka-78ab38175)
 
+[Email Here](mailto:judeleonard86@gmail.com)
 <!--
 **judeleonard/Judeleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
