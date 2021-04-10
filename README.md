@@ -11,16 +11,26 @@ to help grow my career even further. I love contributing to open source communit
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 
-### blogs 
-|[Medium](https://medium.com/@judeleonard86) | [LinkedIn](https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D)|
-
-
+### Blog 
+<a href="https://medium.com/@judeleonard86">                                                                               <a href="https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;                                                                                                           </a>&nbsp;&nbsp;  
+   
 ### Reach Me Via
-[My Twitter Profile](https://twitter.com/JudeLeonard13)
+<a href="https://twitter.com/JudeLeonard13">  
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                 
+</a>&nbsp;&nbsp;
+                                                                                                                                                                                                                                                                                                                                                                  
 
-[My LinkedIn Profile](https://www.linkedin.com/in/jude-chukwuebuka-78ab38175)
+<a href="https://www.linkedin.com/in/jude-chukwuebuka-78ab38175">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-[Email Here](mailto:judeleonard86@gmail.com)
+<a href="mailto:judeleonard86@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+
 
 <!--
 **judeleonard/Judeleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
