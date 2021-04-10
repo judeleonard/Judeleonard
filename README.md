@@ -12,7 +12,8 @@ to help grow my career even further. I love contributing to open source communit
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 
 ### blogs 
-[Medium](https://medium.com/@judeleonard86)
+|[Medium](https://medium.com/@judeleonard86) | [LinkedIn](https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D)|
+
 
 ### Reach Me Via
 [My Twitter Profile](https://twitter.com/JudeLeonard13)
