@@ -12,9 +12,14 @@ to help grow my career even further. I love contributing to open source communit
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 
 ### Blog 
-<a href="https://medium.com/@judeleonard86">                                                                               <a href="https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;                                                                                                           </a>&nbsp;&nbsp;  
+<a href="https://medium.com/@judeleonard86">                                                                               
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
+</a>&nbsp;&nbsp;   
+
+<a href="https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;                                                                                                           
+                                                                                                    
    
 ### Reach Me Via
 <a href="https://twitter.com/JudeLeonard13">  
