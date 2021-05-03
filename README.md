@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1598179389/IMG_20200823_113714_244_btb40w.jpg)
+![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
 ### Hi! there 👋 I'm jude
 
