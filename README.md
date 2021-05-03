@@ -1,11 +1,11 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### Hi! there 👋 I'm jude
+### Hi! there 👋 I'm Jude
 
 ### About Me
-My name is Ndu Jude Chukwuebuka, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
-I'm a data scientist.I specialize in Machine Learning and Data Analytics with a very strong interest in AI. 
-I interned at Hamoye, where I worked on machine learning and real time decision projects. I'm also open to an entry level role as a Data Scientist or any DS-internship position(onsite/remote)
+My name is Jude Ndu, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
+I have experience in data analysis, machine learning, deep learning with a focus in natural language processing. 
+I interned at Hamoye HQ, where I worked on machine learning and real time decision projects. I'm also open to an entry level role as a Data Scientist or any DS-internship position(onsite/remote)
 to help grow my career even further. I love contributing to open source community . Python is my favorite language.
 
 ### Github stats
