@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### Hi! there 👋 I'm Jude
+### Hi! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jude
 
 ### About Me
 My name is Jude Ndu, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
