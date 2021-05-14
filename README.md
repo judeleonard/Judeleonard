@@ -27,7 +27,7 @@ to help grow my career even further. I love contributing to open source communit
 </a>&nbsp;&nbsp;
                                                                                                                                                                                                                                                                                                                                                                   
 
-<a href="https://www.linkedin.com/in/jude-chukwuebuka-78ab38175">
+<a href="https://www.linkedin.com/in/jude-ndu-78ab38175">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
