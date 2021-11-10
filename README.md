@@ -34,10 +34,6 @@ I interned at Hamoye HQ, where I worked on machine learning and real time decisi
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="mailto:judeleonard86@gmail.com">
-<img src="https://img.shields.io/badge/Slack-h4y1326?style=for-the-badge&logo=slack&logoColor=white" />
-</a>&nbsp;&nbsp;
-
 
 
 <!--
