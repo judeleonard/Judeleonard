@@ -1,15 +1,14 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### Hi! there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jude
+### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jude
 
 ### About Me
 My name is Jude Ndu, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
-I have experience in data analysis, machine learning, deep learning with a focus in natural language processing. 
+I have experience in data analysis, machine learning, deep learning and also natural language processing. 
 I interned at Hamoye HQ, where I worked on machine learning and real time decision projects. Currently, I'm working on project that leverages AI Engineering. I love contributing to open source projects and Python is my favorite language.
 
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
-
 [![Judeleonard's github streak](https://github-readme-streak-stats.herokuapp.com/?user=judeleonard&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
 
 ### Blog 
