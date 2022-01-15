@@ -10,6 +10,8 @@ I interned at Hamoye HQ, where I worked on machine learning and real time decisi
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 
+[![Judeleonard's github streak](https://github-readme-streak-stats.herokuapp.com/?user=judeleonard&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
+
 ### Blog 
 <a href="https://medium.com/@judeleonard86">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
@@ -33,7 +35,6 @@ I interned at Hamoye HQ, where I worked on machine learning and real time decisi
 <a href="mailto:judeleonard86@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-
 
 
 <!--
