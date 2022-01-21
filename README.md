@@ -4,8 +4,8 @@
 
 ### About Me
 My name is Jude Ndu, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
-I have experience in data analysis, machine learning, deep learning and also natural language processing. 
-I interned at Hamoye HQ, where I worked on machine learning and real time decision projects. Currently, I'm working on project that leverages AI Engineering. I love contributing to open source projects and Python is my favorite language.
+I have had experience working in data analysis, machine learning, deep learning, and also natural language processing. 
+I worked previously at Hamoye HQ, where I worked on machine learning and real time decision projects. Currently, I'm working on project that leverages AI Engineering. I love contributing to open source projects and Python is my favorite language.
 
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
