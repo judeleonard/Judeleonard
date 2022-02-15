@@ -23,12 +23,12 @@ I worked previously at Hamoye HQ, where I worked on machine learning and real ti
    
 ### Reach me via
 <a href="https://twitter.com/JudeLeonard13">  
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                 
+<img src="https://img.shields.io/badge/@judeleonard13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                 
 </a>&nbsp;&nbsp;
                                                                                                                                                                                                                                                                                                                                                                   
 
 <a href="https://www.linkedin.com/in/jude-ndu-78ab38175">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jude Ndu-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="mailto:judeleonard86@gmail.com">
