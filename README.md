@@ -10,7 +10,7 @@ I worked previously at Hamoye HQ, where I worked on machine learning and real ti
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 [![Judeleonard's github streak](https://github-readme-streak-stats.herokuapp.com/?user=judeleonard&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
-
+### GitHub activity graph📉:
 [![Judeleonard's github activity graph](https://activity-graph.herokuapp.com/graph?username=judeleonard&theme=react-dark)](https://github.com/judeleonard/github-readme-activity-graph)
 
 ### Blog 
