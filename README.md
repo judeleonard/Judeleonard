@@ -13,6 +13,9 @@ I worked previously at Hamoye HQ, where I worked on machine learning and real ti
 ### GitHub activity graph📉:
 [![Judeleonard's github activity graph](https://activity-graph.herokuapp.com/graph?username=judeleonard&theme=react-dark)](https://github.com/judeleonard/github-readme-activity-graph)
 
+### Here are random jokes to brighten up your day:smile:
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
+
 ### Blog 
 <a href="https://medium.com/@judeleonard86">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
