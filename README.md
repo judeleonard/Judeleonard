@@ -2,10 +2,7 @@
 
 ### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jude
 
-### About Me
-My name is Jude Ndu, I go by the online name Judeleonard. I'm a graduate of Physics and Python certified. 
-I have had experience working in data analysis, machine learning, deep learning, and also natural language processing. 
-I worked previously at Hamoye HQ, where I worked on machine learning and real time decision projects. Currently, I'm working on project that leverages AI Engineering. I love contributing to open source projects and Python is my favorite language.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;I'm+a+certified+python+developer;with+over+3years+of+experience.;My+interests+and+work+experience;lies+within+the+space+of;Data+Science;Data+Engineering;Natural+Language+Processing;and+AI;I+worked+previously+at+HamoyeHQ;Where+I+worked+on+machine+learning;and+real+time+decision+projects.;I+enjoy+learning+and+building;new+things.;Most+importantly,;I+love+contributing+to+open;source+projects.;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
