@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
 
-### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jude
+### Hi! there,:wave: I'm Jude
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=13&lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;I'm+a+certified+python+developer;with+over+3years+of+experience.;My+interests+and+work+experience;lies+within+the+space+of;Data+Science;Data+Engineering;Natural+Language+Processing;and+AI;I+worked+previously+at+HamoyeHQ;where+I+worked+on+machine+learning;and+real-time+decision+projects.;I+enjoy+learning+and+building;new+things.;Most+importantly,;I+love+contributing+to+open;source+projects.;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 
