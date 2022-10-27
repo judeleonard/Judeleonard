@@ -2,7 +2,7 @@
 
 ### Hi! there,:wave: I'm Jude
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=13&lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;I'm+a+certified+python+developer;with+over+3years+of+experience.;My+interests+and+work+experience;lies+within+the+space+of;Data+Science;Data+Engineering;Natural+Language+Processing;and+AI;I+worked+previously+at+HamoyeHQ;where+I+worked+on+machine+learning;and+real-time+decision+projects.;I+enjoy+learning+and+building;new+things.;Most+importantly,;I+love+contributing+to+open;source+projects.;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=13&lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;I'm+a+certified+python+developer;with+over+3years+of+experience.;My+interests+and+work+experience;lies+within+the+space+of;Data+Science;Data+Engineering;Natural+Language+Processing;and+AI;I'm+currently+working+on;real-time+decision+project+using+Data+Engineering;and+Machine+Learning;I+enjoy+learning+to+build+and+building+learn;new+things.;Most+importantly,;I+love+contributing+to+open;source+projects.;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
