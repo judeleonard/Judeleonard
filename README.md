@@ -15,6 +15,8 @@
 ### Here are random jokes to brighten up your day:smile:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
 
+<!-- ![](https://komarev.com/ghpvc/?username=judeleonard&style=flat-square)
+-->
 ### Blog 
 <a href="https://medium.com/@judeleonard86">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />                   
