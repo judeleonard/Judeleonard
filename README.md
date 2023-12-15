@@ -28,10 +28,11 @@
                                                                                                     
    
 ### Reach me via
+<!--
 <a href="https://twitter.com/JudeLeonard13">  
 <img src="https://img.shields.io/badge/@judeleonard13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                 
 </a>&nbsp;&nbsp;
-                                                                                                                                                                                                                                                                                                                                                                  
+ -->                                                                                                                                                                                                                                                                                                                                                                 
 
 <a href="https://www.linkedin.com/in/jude-ndu-78ab38175">
 <img src="https://img.shields.io/badge/Jude Ndu-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
