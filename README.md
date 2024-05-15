@@ -7,10 +7,10 @@
 ### Github stats
 ![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
 [![Judeleonard's github streak](https://github-readme-streak-stats.herokuapp.com/?user=judeleonard&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judeleonard&layout=compact)](https://github.com/judeleonard/github-readme-stats)
-### GitHub activity graph📉:
-[![Judeleonard's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=judeleonard&theme=react-dark)](https://github.com/judeleonard/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=judeleonard&theme=onedark)](https://github.com/judeleonard/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judeleonard&layout=compact)](https://github.com/judeleonard/github-readme-stats)           [![trophy](https://github-profile-trophy.vercel.app/?username=judeleonard&row=2&column=3&theme=onedark)](https://github.com/judeleonard/github-profile-trophy)
+<!-- ### GitHub activity graph📉:
+<!--[![Judeleonard's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=judeleonard&theme=react-dark)](https://github.com/judeleonard/github-readme-activity-graph)
+-->
 
 ### Here are random jokes to brighten up your day:smile:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
