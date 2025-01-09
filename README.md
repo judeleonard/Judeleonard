@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=13&lines=Welcome+to+my+Github+Profile;A+quick+introduction+about+me;I'm+a+certified+python+developer;with+over+4years+of+experience.;My+interests+and+work+experience;lies+within+the+space+of;Data+Science;Data+Engineering;Natural+Language+Processing;and+AI;I'm+currently+working+on;real-time+decision+project+using+Data+Engineering;and+Machine+Learning;I+enjoy+learning+to+build+and+building+learn;new+things.;In+my+spare+time,;I+contribute+to+open;source+projects.;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 
 ### Github stats
-![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&theme=algolia)
+![JudeLeonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=judeleonard&show_icons=true&include_all_commits=true&theme=algolia)
 [![Judeleonard's github streak](https://github-readme-streak-stats.herokuapp.com/?user=judeleonard&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judeleonard&layout=compact)](https://github.com/judeleonard/github-readme-stats)           [![trophy](https://github-profile-trophy.vercel.app/?username=judeleonard&row=2&column=3&theme=onedark)](https://github.com/judeleonard/github-profile-trophy)
 <!-- ### GitHub activity graph📉:
